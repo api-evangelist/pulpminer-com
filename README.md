@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pulpminer-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pulpminer.com/
+Turn Any webpage into a clean, structured realtime JSON API in seconds with PulpMiner. No scraping code required—just enter a URL and your desired JSON format. Get real-time, AI-powered APIs with flexible pricing and instant setup.
+
+**Areas:** API · Web Scraping · Realtime · JSON · Low-code
+
+## pulpminer-com on APIs.io
+
+Everything profiled for pulpminer-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pulpminer-com/](https://apis.io/providers/pulpminer-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Pulpminer API](https://apis.io/apis/pulpminer-com/pulpminer-api/) — Access your saved JSON APIs
+- [pulpminer-com API](https://apis.io/apis/pulpminer-com/pulpminer-com-api/) — pulpminer-com API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [pulpminer-com API Rules](https://apis.io/rules/pulpminer-com/pulpminer-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pulpminer Com Authentication](https://apis.io/security/pulpminer-com/pulpminer-com-authentication/)
+- [Pulpminer Com Domain Security](https://apis.io/security/pulpminer-com/pulpminer-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Pulpminer Com Scopes](https://apis.io/scopes/pulpminer-com/pulpminer-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pulpminer.com/)
+- [Documentation](https://docs.pulpminer.com/)
+- [Getting started](https://docs.pulpminer.com/quickstart.md)
+- [API reference](https://docs.pulpminer.com/api-reference/)
+- [Pricing](https://www.pulpminer.com/#pricing)
+- [Blog](https://www.pulpminer.com/blog)
+- [Terms of service](https://www.pulpminer.com/terms-and-conditions)
+- [Privacy policy](https://www.pulpminer.com/privacy-policy)
+- [Status](https://status.pulpminer.com/)
+
+## API Evangelist rating
+
+**Kin Score 54.1** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 39.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 71.4 |
+| Access clarity | 44.7 |
+
+**Agent readiness 46.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pulpminer-com/](https://apis.io/providers/pulpminer-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for pulpminer-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pulpminer-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
